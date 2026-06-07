@@ -71,4 +71,4 @@ yarn cli show 1
 ```
 
 **Repo (code, tests, README with full Web2→Solana analysis & tradeoffs):**
-https://github.com/G-ojies/solana-audit-app/tree/master/Development/fair-tickets
+https://github.com/G-ojies/fair-tickets
